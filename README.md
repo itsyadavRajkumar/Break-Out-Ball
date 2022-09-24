@@ -1,4 +1,5 @@
 # BreakOutBall
+* [Author](#author)
 
 BreakOut Ball Game is widely used game which was developed in the 1970s. In Breakout, a
 layer of bricks lines the top third of the screen and the goal is to destroy them all. A ball
@@ -26,3 +27,7 @@ Below are some ScreenShot of Output of the Game :-
 ![Screenshot (130)](https://user-images.githubusercontent.com/77102131/128479360-d096872a-4a86-4492-a4a7-f13e9d8c70ac.png)
 
 
+## Author
+
+- Github: [Rajkumar Yadav](https://github.com/itsyadavRajkumar)
+- Linkedin: [Rajkumar Yadav](https://www.linkedin.com/in/itsrajkumar/)
