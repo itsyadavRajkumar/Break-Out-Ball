@@ -24,8 +24,8 @@ public class PlayGame extends JPanel implements KeyListener , ActionListener {
     private int playerX = 330 ;   //For Slider Bar
     private int ballposX = 120;
     private int ballposY = 350;
-    private int ballXdir = -5;      //Ball speed X-Axis.
-    private int ballYdir = -5;      //Ball speed Y-Axis.
+    private int ballXdir = -3;      //Ball speed X-Axis.
+    private int ballYdir = -3;      //Ball speed Y-Axis.
     private BrickGenerator map;
 
 
@@ -179,8 +179,8 @@ public class PlayGame extends JPanel implements KeyListener , ActionListener {
                 play = true;
                 ballposX = 120; // start position
                 ballposY = 350; // start position
-                ballXdir = -5;
-                ballYdir = -5;
+                ballXdir = -2;
+                ballYdir = -2;
                 playerX = 310;
                 score = 0;
                 totalbricks = totalcol * totalrow;
@@ -194,12 +194,12 @@ public class PlayGame extends JPanel implements KeyListener , ActionListener {
     public void moveRight()
     {
         play = true;
-        playerX += 20;
+        playerX += 50;
     }
 
     public void moveLeft()
     {
         play = true;
-        playerX -= 20;
+        playerX -= 50;
     }
 }

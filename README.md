@@ -16,15 +16,15 @@ learn and maybe inspire someone to be the next most successful developer in the 
 
 Below are some ScreenShot of Output of the Game :- 
 
-![Screenshot (132)](https://user-images.githubusercontent.com/77102131/128479149-16423c0c-6614-4add-9407-6c76883a531f.png)
+![Screenshot (132)](https://github.com/itsyadavRajkumar/Break-Out-Ball/blob/main/Image/Game%20Won.png)
 
 
 
-![Screenshot (131)](https://user-images.githubusercontent.com/77102131/128479346-06f08645-60f0-4b9f-a54f-fcc418cc9036.png)
+![Screenshot (131)](https://github.com/itsyadavRajkumar/Break-Out-Ball/blob/main/Image/Game%20Over.png)
 
 
 
-![Screenshot (130)](https://user-images.githubusercontent.com/77102131/128479360-d096872a-4a86-4492-a4a7-f13e9d8c70ac.png)
+![Screenshot (130)](https://github.com/itsyadavRajkumar/Break-Out-Ball/blob/main/Image/Game%20Start.png)
 
 
 ## Author
